@@ -23,7 +23,6 @@
 - `npm run dev`: 启动项目
 - `npm run build`: 打包项目
 - `npm run serve`: 启动预览
-- `npm run prepare`: husky 注入
 - `npm run lint`: eslint 校验 
 - `npm run lint-fix`: eslint 校验修复
 - `npm run test`: 单元测试
